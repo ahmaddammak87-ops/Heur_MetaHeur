@@ -35,6 +35,8 @@ Les liaisons « - » de l'énoncé valent 1000 dans le programme. La matrice est
 - Liste tabou : 50 solutions, 20 itérations
 
 **Résultat :** 1-2-4-5-6-7-3-8-1, **distance 98** (optimum).
+<img width="532" height="528" alt="image" src="https://github.com/user-attachments/assets/8f219d9c-7ab5-4c7d-9d14-9391044b70c3" />
+
 
 ### Q2 : Recuit Simulé
 
