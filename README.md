@@ -3,15 +3,6 @@
 
 Résolution de deux problèmes d'optimisation en Python avec la **Recherche Tabou** et le **Recuit Simulé**.
 
-## Fichiers
-
-- `TD2_simple.py` : le programme principal (Exercice 2 et Exercice 3), simple et commenté
-- `TD2_solution.py` : version détaillée, avec vérification de l'optimum par énumération
-- `tabou_corrige.py` : recherche tabou pour le voyageur de commerce (exemple corrigé)
-
-
-
-
 ## Exercice 2 : problème de transport
 
 Deux dépôts contiennent 8 et 9 containers. Trois magasins demandent 4, 5 et 8 containers. L'objectif est de minimiser le coût total de transport.
@@ -29,6 +20,7 @@ Deux dépôts contiennent 8 et 9 containers. Trois magasins demandent 4, 5 et 8 
 - Voisin : déplacer 1 container d'un magasin à un autre.
 
 **Résultat :** D1 envoie (3, 5, 0) et D2 envoie (1, 0, 8), soit un **coût minimal de 52**.
+<img width="1601" height="270" alt="image" src="https://github.com/user-attachments/assets/b42bce42-f272-445c-ac70-862d5171378f" />
 
 ---
 
